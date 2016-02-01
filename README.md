@@ -1,4 +1,4 @@
-# CSC-333-RSA
+# RSA-Implementation
 Implementation of RSA Cryptosystem
 
 Program performs the key generation, encryption, and decryption operations of the RSA cryptosystem
